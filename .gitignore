@@ -34,3 +34,7 @@ desktop.ini
 # ===== Env vars / secrets =====
 .env
 *.env
+
+CHANGELOG.md
+copilot-instructions.md
+.github 
