@@ -1,0 +1,36 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ===== Virtual environments =====
+venv/
+.venv/
+env/
+.env/
+
+# ===== Build / packaging =====
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ===== Data (хувийн өгөгдөл, том файлууд) =====
+data/chroma_db/
+data/raw_journals/
+data/processed_journals/
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Env vars / secrets =====
+.env
+*.env
